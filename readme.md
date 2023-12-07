@@ -18,8 +18,11 @@ La pequeña aplicación se creara se basa en la necesidad de registrar las masco
 2. Elige  "Java With Ant" → "Aplicación Java" y haz clic en "Siguiente".
 3. Ingresa el nombre del proyecto (por ejemplo, "LaboratorioJTable") y selecciona la ubicación. Haz clic en "Finalizar".
 4. Se deberá agregar dos paquetes al proyecto uno para almacenar la clases de los modelos (Models) y el otro que almacenara los formularios o GUI de la aplicación (Views):
+   
 ![paquetes](./img/proyecto.png)
+
 5. En el paquete de Models, se deberá crear una nueva clase con el nombre de mascotas y en el paquete Views sew deberá crear un nuevo JFrame Forms con el nombre frmMascotas:
+   
 ![paquetes 1](./img/Proyecto1.png)
 
 ### Modelo de la Clase Mascota
